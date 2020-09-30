@@ -18,15 +18,15 @@ All scripts were tested on Debian GNU/Linux 9. Additionally, the following open 
 
 This repository contains the following resources (in alphabetical order):
 
-*debugout_analysis.r
+* debugout_analysis.r
 
 An R file listing the commands to format and process gzip’s debugging output. Specifically, commands are provided to extract the complete lexicon entries, the distance to the previous identical sequence length and frequency of compressed strings, as well as commands for some basic distributional analyses. The file requires debugout_functions.r
 
-*debugout_functions.r
+* debugout_functions.r
 
 An R file containing custom-made functions for formatting and processing gzip’s debugging output. The file needs to be stored in the same directory as the file debugout_analysis.r. 
 
-*makedebug.sh
+* makedebug.sh
 
 A shell script which calls gzip’s debug version (dgzip) and the commands for lexicon retrieval (see below).
 
