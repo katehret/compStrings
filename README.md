@@ -5,7 +5,7 @@
 
 ### Description
 
-This repository provides scripts for the retrieval and processing of gzip’s debugging output as described in the related publication
+This repository provides scripts and instructions for the retrieval and processing of gzip’s debugging output which is analysed in the related publication
 
 * Ehret, Katharina (submitted). "Through the compression glass: language complexity and the structure of algorithmically compressed strings." 
  
