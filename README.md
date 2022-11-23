@@ -2,6 +2,11 @@
 
 #### Scripts for: Through the compression glass: language complexity and the structure of algorithmically compressed strings (version 1.0)
 
+### DOI
+
+[![DOI](https://zenodo.org/badge/299907289.svg)](https://zenodo.org/badge/latestdoi/299907289)
+
+https://zenodo.org/badge/latestdoi/299907289
 
 ### Description
 
