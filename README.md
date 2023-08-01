@@ -12,7 +12,7 @@ https://zenodo.org/badge/latestdoi/299907289
 
 This repository provides scripts and instructions for the retrieval and processing of gzip’s debugging output which is analysed in the related publication
 
-tba
+Ehret, Katharina.  Acepted. "Through the compression glass: language complexity and the linguistic structure of compressed strings". Submitted to: *Linguistics Vanguard*.
 
 Against the background of the sociolinguistic-typological debate on language complexity which is all about measuring and explaining variability in language complexity, the publication presents an in-depth analysis of algorithmically compressed texts. Specifically, the formal and linguistic structure of compressed text sequences as retrieved from *gzip*’s debugging output (or lexicon) are examined. Compression algorithms like *gzip* are sometimes employed to approximate language complexity via the information-content, or complexity, in texts. The publication focuses on the compression technique, an information-theoretic measure based on Kolmogorov complexity. Scripts for the implementation of the technique are available [here](https://github.com/katehret/measuring-language-complexity).
 
