@@ -12,7 +12,7 @@ https://zenodo.org/badge/latestdoi/299907289
 
 This repository provides scripts and instructions for the retrieval and processing of gzip’s debugging output which is analysed in the related publication
 
-Ehret, Katharina.  Acepted. "Through the compression glass: language complexity and the linguistic structure of compressed strings". Submitted to: *Linguistics Vanguard*.
+- Ehret, Katharina. To appear. "Through the compression glass: language complexity and the linguistic structure of compressed strings". *Linguistics Vanguard*.
 
 Against the background of the sociolinguistic-typological debate on language complexity which is all about measuring and explaining variability in language complexity, the publication presents an in-depth analysis of algorithmically compressed texts. Specifically, the formal and linguistic structure of compressed text sequences as retrieved from *gzip*’s debugging output (or lexicon) are examined. Compression algorithms like *gzip* are sometimes employed to approximate language complexity via the information-content, or complexity, in texts. The publication focuses on the compression technique, an information-theoretic measure based on Kolmogorov complexity. Scripts for the implementation of the technique are available [here](https://github.com/katehret/measuring-language-complexity).
 
@@ -55,5 +55,16 @@ The lexicon can be retrieved and saved using makedebug.sh:
 
     makedebug.sh input.txt > output.txt
 
-! NOTE: For replication of the analysis presented in the related publication, the input text should be pre-processed as follows. All punctuation, additional whitespace, UTF-8 characters or similar should be removed. The input text should be converted to lowercase. Different formatting might result in differences in frequency and length of compressed strings. 
+> [!NOTE]:
+> For replication of the analysis presented in the related publication, the input text should be pre-processed as follows. All punctuation, additional whitespace, UTF-8 characters or similar should be removed. The input
+> text should be converted to lowercase. Different formatting might result in differences in frequency and length of compressed strings.
+
+#### Cite as
+
+To cite this resource please use the following format
+
+Ehret, Katharina. compStrings: Analysing algorithmically compressed strings. Zenodo. DOI: 
+
+Ehret, Katharina. To appear. "Through the compression glass: language complexity and the linguistic structure of compressed strings". *Linguistics Vanguard*.
+
 
