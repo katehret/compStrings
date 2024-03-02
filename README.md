@@ -55,7 +55,7 @@ The lexicon can be retrieved and saved using makedebug.sh:
 
     makedebug.sh input.txt > output.txt
 
-> [!NOTE]:
+> [!NOTE]
 > For replication of the analysis presented in the related publication, the input text should be pre-processed as follows. All punctuation, additional whitespace, UTF-8 characters or similar should be removed. The input
 > text should be converted to lowercase. Different formatting might result in differences in frequency and length of compressed strings.
 
