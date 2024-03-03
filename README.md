@@ -61,9 +61,7 @@ The lexicon can be retrieved and saved using makedebug.sh:
 
 #### Cite as
 
-To cite this resource please cite the related publication and use the following format:
-
-Ehret, Katharina. compStrings: Analysing algorithmically compressed strings. Zenodo. DOI: 
+To cite this resource please cite the related publication:
 
 Ehret, Katharina. To appear. "Through the compression glass: language complexity and the linguistic structure of compressed strings". *Linguistics Vanguard*.
 
