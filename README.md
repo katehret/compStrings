@@ -12,7 +12,7 @@ https://zenodo.org/badge/latestdoi/299907289
 
 This repository provides scripts and instructions for the retrieval and processing of gzip’s debugging output which is analysed in the related publication
 
-- Ehret, Katharina. To appear. "Through the compression glass: language complexity and the linguistic structure of compressed strings". *Linguistics Vanguard*.
+- Ehret, Katharina. 2024. "Through the compression glass: language complexity and the linguistic structure of compressed strings". *Linguistics Vanguard*. DOI: [https://doi.org/10.1515/lingvan-2022-0140](https://doi.org/10.1515/lingvan-2022-0140)
 
 Against the background of the sociolinguistic-typological debate on language complexity which is all about measuring and explaining variability in language complexity, the publication presents an in-depth analysis of algorithmically compressed texts. Specifically, the formal and linguistic structure of compressed text sequences as retrieved from *gzip*’s debugging output (or lexicon) are examined. Compression algorithms like *gzip* are sometimes employed to approximate language complexity via the information-content, or complexity, in texts. The publication focuses on the compression technique, an information-theoretic measure based on Kolmogorov complexity. Scripts for the implementation of the technique are available [here](https://github.com/katehret/measuring-language-complexity).
 
@@ -63,6 +63,5 @@ The lexicon can be retrieved and saved using makedebug.sh:
 
 To cite this resource please cite the related publication:
 
-Ehret, Katharina. To appear. "Through the compression glass: language complexity and the linguistic structure of compressed strings". *Linguistics Vanguard*.
-
+Ehret, Katharina. 2024. "Through the compression glass: language complexity and the linguistic structure of compressed strings". *Linguistics Vanguard*. DOI: [https://doi.org/10.1515/lingvan-2022-0140](https://doi.org/10.1515/lingvan-2022-0140)
 
